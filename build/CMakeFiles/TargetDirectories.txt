@@ -1,5 +1,0 @@
-/home/nother/notherKV/build/CMakeFiles/edit_cache.dir
-/home/nother/notherKV/build/CMakeFiles/rebuild_cache.dir
-/home/nother/notherKV/build/test/CMakeFiles/skiplist_test.dir
-/home/nother/notherKV/build/test/CMakeFiles/edit_cache.dir
-/home/nother/notherKV/build/test/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/clang++-12 -static-libstdc++ -static-libgcc -O3 -ggdb  CMakeFiles/skiplist_test.dir/skiplist_test.cpp.o -o testdir/skiplist_test   -L/libs  -L/home/nother/notherKV/test/../libs  -Wl,-rpath,/libs:/home/nother/notherKV/test/../libs -lpthread 
